@@ -22,8 +22,10 @@ Requirement
 
 PAPI Setup
   • /papi ecloud download Player
+  • /papi ecloud download Plugin (If there is mmocore)
 
 ItemsAdder & HappyHUD Setup:
+  • If you have an old 'HappyHUD' folder, please delete it and install the new one
   • Disable ItemsAdder Text Effects.
   • Disable ItemsAdder Hide Scoreboard Numbers.
   • In the HappyHud config.yml set copy-resource-pack to enabled: true and make the path
@@ -38,6 +40,7 @@ ItemsAdder & HappyHUD Setup:
   • run command /iazip
 
 Oraxen & HappyHUD Setup:
+  • If you have an old 'HappyHUD' folder, please delete it and install the new one
   • Set action_bar: false and hide_scoreboard_numbers: false in your settings.yml file.
   • Delete Oraxen/pack/shaders/core/rendertype_text.json and rendertype_text.vsh if they exist.
   • In the HappyHud config.yml set copy-resource-pack to enabled: true and make the path path: Oraxen/pack/assets.
@@ -53,6 +56,7 @@ Oraxen & HappyHUD Setup:
   • run command /o reload all
 
 Defualt Resoure pack:
+  • If you have an old 'HappyHUD' folder, please delete it and install the new one
   • In the HappyHud config.yml set copy-resource-pack to enabled: false
     copy-resource-pack:
       enabled: false
