@@ -2,7 +2,7 @@ Test on 1.20.1
 
 Requirement
   • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
-  • HappyHud
+  • HappyHud-1.0.6
   • PlaceholderAPI
 
 
@@ -28,7 +28,7 @@ Oraxen & HappyHUD Setup
   • In the HappyHud config.yml set copy-resource-pack to enabled: true and make the path path: Oraxen/pack/assets.
 
     copy-resource-pack:
-      enabled: false
+      enabled: true
       # The location to copy each namespace to. The parent path is your plugins directory.
       namespaces:
         minecraft: "Oraxen/pack/assets"
