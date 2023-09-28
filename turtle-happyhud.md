@@ -8,6 +8,7 @@ Requirement
 
 PAPI Setup
   • /papi ecloud download Player
+  • /papi ecloud download Vault
 
 ItemsAdder & HappyHUD Setup
   • Disable ItemsAdder Text Effects.
