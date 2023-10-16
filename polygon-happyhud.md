@@ -12,11 +12,11 @@ _______________________________________
 Please do not resell or give away for free.
 _______________________________________
 
-Test on 1.20
+Test on 1.20.2
 
 Requirement
   • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
-  • HappyHUD-1.0.2-RELEASE
+  • HappyHUD-1.0.7-RELEASE
   • PlaceholderAPI
 
 
