@@ -2,7 +2,9 @@ Terms of Use.
 If you have used our products, it means you agree to the terms of service, which apply to our products.
 
 Test on 1.20.2
-Requirement: • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
+Requirement: 
+• Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
+• BattlePass
 
 How to install:
 1. Please choose either itemadder or orixen and install it in the plugin folder.
