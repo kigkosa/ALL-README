@@ -8,7 +8,6 @@ Follow me:
 https://twitter.com/erocavontic
 https://www.facebook.com/erocavontic
 
-
 _______________________________________
 
 If you encounter any issues, please contact me on https://discord.gg/MCModels
