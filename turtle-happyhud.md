@@ -2,7 +2,7 @@ Test on 1.20.2
 
 Requirement
   • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
-  • HappyHud-1.0.7
+  • HappyHud-1.0.11
   • PlaceholderAPI
 
 
