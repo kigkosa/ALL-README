@@ -3,7 +3,7 @@ Please read...
 Test on 1.20.2
 
 Plugin Installation:
-- Itemadder or Orixen
+- Itemadder or Oraxen
 - Jobs
 - PlaceholderAPI
 - DeluxeMenus
