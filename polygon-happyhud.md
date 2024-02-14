@@ -16,8 +16,10 @@ Test on 1.20.2
 
 Requirement
   • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
-  • HappyHUD-1.0.7-RELEASE
+  • HappyHUD-1.0.12-RELEASE
   • PlaceholderAPI
+  • ProtocolLib
+
 
 
 PAPI Setup
