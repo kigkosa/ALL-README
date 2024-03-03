@@ -8,11 +8,6 @@ If you have used our products, it means you agree to the terms of service, which
 
 Test on 1.20.2
 
-Requirement:
-  • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
-
-Test on 1.20.2
-
 Requirement
   • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
   • HappyHud-1.0.11
