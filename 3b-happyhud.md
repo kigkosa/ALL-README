@@ -11,16 +11,47 @@ Test on 1.20.2
 Requirement:
   • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
 
-How to install:
-  Installation Pack:
-    STEP 1:
-    • Please double-check to ensure that you have installed the plugins as we have specified.
-    STEP 2:
-    • Copy both "Itemsadder" or "Oraxen" into your plugins folder of your server.
-    STEP 3:
-    • use the command '/ia zip' or '/o reload all'.
-    STEP 4:
-    • enjoy!!
+Test on 1.20.2
+
+Requirement
+  • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
+  • HappyHud-1.0.11
+  • PlaceholderAPI
+
+
+PAPI Setup
+  • /papi ecloud download Player
+  • /papi ecloud download Vault
+
+ItemsAdder & HappyHUD Setup
+  • Disable ItemsAdder Text Effects.
+  • Disable ItemsAdder Hide Scoreboard Numbers.
+  • In the HappyHud config.yml set copy-resource-pack to enabled: true and make the path
+
+    copy-resource-pack:
+      enabled: true
+      # The location to copy each namespace to. The parent path is your plugins directory.
+      namespaces:
+        minecraft: "ItemsAdder/contents"
+        happyhud: "ItemsAdder/contents"
+  • run command /iazip
+
+Oraxen & HappyHUD Setup
+  • Set action_bar: false and hide_scoreboard_numbers: false in your settings.yml file.
+  • Delete Oraxen/pack/shaders/core/rendertype_text.json and rendertype_text.vsh if they exist.
+  • In the HappyHud config.yml set copy-resource-pack to enabled: true and make the path path: Oraxen/pack/assets.
+
+    copy-resource-pack:
+      enabled: true
+      # The location to copy each namespace to. The parent path is your plugins directory.
+      namespaces:
+        minecraft: "Oraxen/pack/assets"
+        happyhud: "Oraxen/pack/assets"
+
+  • Copy ItemsAdder/contents/castle_hud/assets to Oraxen/pack/assets
+  • run command /o reload all
+
+
 
 --------------------------
 
