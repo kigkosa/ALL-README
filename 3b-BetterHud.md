@@ -34,7 +34,7 @@ Oraxen & BetterHud Setup
   • Set action_bar: false and hide_scoreboard_numbers: false in your settings.yml file.
   • Delete Oraxen/pack/shaders/core/rendertype_text.json and rendertype_text.vsh if they exist.
   • Copy BetterHud/build to Oraxen/pack/assets
-  • run command /o reload all
+  • Run command /o reload all
 
 
 
