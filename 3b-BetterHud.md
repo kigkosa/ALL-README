@@ -20,6 +20,7 @@ PAPI Setup
   • /papi ecloud download LocalTime
 
 ItemsAdder & BetterHud Setup
+  • If there is a BetterHud folder, delete it first and then drag the BetterHud folder into it.
   • Disable ItemsAdder Text Effects (https://itemsadder.devs.beer/plugin-usage/text-effects-1.17+).
   • Disable ItemsAdder Hide Scoreboard Numbers (https://itemsadder.devs.beer/plugin-usage/hide-scoreboard-numbers-1.17+).
   • In the ItemsAdder/config.yml
@@ -31,6 +32,7 @@ ItemsAdder & BetterHud Setup
   • run command /iazip
 
 Oraxen & BetterHud Setup
+  • If there is a BetterHud folder, delete it first and then drag the BetterHud folder into it.
   • Set action_bar: false and hide_scoreboard_numbers: false in your settings.yml file.
   • Delete Oraxen/pack/shaders/core/rendertype_text.json and rendertype_text.vsh if they exist.
   • Copy BetterHud/build to Oraxen/pack/assets
