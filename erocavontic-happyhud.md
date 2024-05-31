@@ -21,8 +21,7 @@ Requirement
 
 
 PAPI Setup
-  • /papi ecloud download Player
-  • /papi ecloud download Plugin (If there is mmocore)
+***papi_request***
 
 ItemsAdder & HappyHUD Setup:
   • If you have an old 'HappyHUD' folder, please delete it and install the new one
