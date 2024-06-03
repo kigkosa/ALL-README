@@ -25,3 +25,7 @@ Armor Set: You cannot change to a different set. It must be a leather set only b
 
 Some weapon models cannot be crafted into specific weapons, such as the trident, because the trident is a game-defined entity set as is.
 
+Default Resourcepack 
+Armor: If you are using other packs from Polygony, please combine them in the Shader yourself.
+
+CustommodelData ID: You are using the Default Resourcepack along with other packs from Polygony, please change the CustomModelsData numbers yourself.
