@@ -29,6 +29,7 @@ ItemsAdder & HappyHUD Setup
       namespaces:
         minecraft: "ItemsAdder/contents"
         happyhud: "ItemsAdder/contents"
+  • run command /happyhud reload
   • run command /iazip
 
 Oraxen & HappyHUD Setup
@@ -44,6 +45,7 @@ Oraxen & HappyHUD Setup
         happyhud: "Oraxen/pack/assets"
 
   • Copy ItemsAdder/contents/castle_hud/assets to Oraxen/pack/assets
+  • run command /happyhud reload
   • run command /o reload all
 
 
