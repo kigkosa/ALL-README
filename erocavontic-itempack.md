@@ -13,8 +13,11 @@ _______________________________________
 Please review for this pack once you use it. Thank you very much
 
 Follow me:
-https://twitter.com/erocavontic
-https://www.facebook.com/erocavontic
+- Discord: https://discord.gg/xFmUqsfUsM
+- Facebook: https://www.facebook.com/erocavontic/
+- Youtube: https://www.youtube.com/channel/UCGwoLgEhb4Pqv1gO7WJ9zBA
+- Web: https://portfolio.erocavontic.net/
+
 
 _______________________________________
 
