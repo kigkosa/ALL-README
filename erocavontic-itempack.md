@@ -2,10 +2,6 @@ Thank you for purchase
 
 _______________________________________
 
-Requirement: 
-• Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
-%requirement%
-
 How to install: 
 • Drag&Drop file
 
