@@ -10,6 +10,7 @@ https://www.instagram.com/polygony.std/
 https://www.facebook.com/polygony.std
 https://sketchfab.com/polygonymc
 https://polygony.co/
+https://docs.polygony.co/
 
 _______________________________________
 
