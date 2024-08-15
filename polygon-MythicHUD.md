@@ -19,8 +19,6 @@ Requirement
   • MythicHUD-1.0.0
   • PlaceholderAPI
 
-
-
 PAPI Setup
 ***papi_request***
 
