@@ -6,7 +6,8 @@ https://twitter.com/polygon_mc
 https://www.instagram.com/polygony.std/
 https://www.facebook.com/polygony.std
 https://sketchfab.com/polygonymc
-
+https://polygony.co/
+https://docs.polygony.co
 _______________________________________
 
 Please do not resell or give away for free.
@@ -35,6 +36,8 @@ ItemsAdder & MythicHUD Setup:
         minecraft: "ItemsAdder/contents"
         mythichud: "ItemsAdder/contents"
   • Run command /mythichud reload
+  • If you are using a resource pack for client version 1.20.5+, follow the steps below:
+    - Copy the files from MythicHUD/built-pack/mythichud-modern/assets/minecraft to ItemsAdder/contents
   • run command /iazip
 
 Oraxen & MythicHUD Setup:
@@ -51,6 +54,8 @@ Oraxen & MythicHUD Setup:
         mythichud: "Oraxen/pack/assets"
 	
   • Run command /mythichud reload
+  • If you are using a resource pack for client version 1.20.5+, follow the steps below:
+    - Copy the files from MythicHUD/built-pack/mythichud-modern/assets/minecraft to Oraxen/pack/assets
   • run command /o reload all
 
 Defualt Resoure pack:
@@ -59,5 +64,9 @@ Defualt Resoure pack:
     copy-resource-pack:
       enabled: false
   • Run command /mythichud reload
+  • If you are using a resource pack for client version 1.20.5+, follow the steps below:
+    - Copy the files from MythicHUD/built-pack/mythichud-modern/assets/minecraft to MythicHUD/built-pack
   • Copy the files from "MythicHUD\built-pack" and paste them into the resource pack folder.
   • Put the resoure pack to Minecraft or Reload the Minecraft resoure pack
+
+Read More: https://docs.polygony.co/getting-started/How-to-install-MythicHUD
