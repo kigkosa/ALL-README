@@ -51,7 +51,7 @@ _______________________________________
 Please review for this pack once you use it. Thank you very much
 
 Follow me:
-- Discord: https://discord.gg/xFmUqsfUsM
+- Discord: https://docs.erocavontic.net/discord
 - Facebook: https://www.facebook.com/erocavontic/
 - Youtube: https://www.youtube.com/channel/UCGwoLgEhb4Pqv1gO7WJ9zBA
 - Web: https://portfolio.erocavontic.net/
