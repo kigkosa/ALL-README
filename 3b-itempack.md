@@ -28,6 +28,6 @@ Create by 3BSTUDIO
 
 --------------------------
 
-The channel to inquire about problems : https://discord.gg/4c2jvJXACQ
+The channel to inquire about problems : https://discord.gg/mcmodels
 
 Thankyou For Purchase
