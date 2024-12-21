@@ -18,9 +18,11 @@ If you encounter any issues, please contact me on Discord: chaaem
 
 _______________________________________
 
-Test on 1.21.1
+Test on 1.21.3
 
 For packs that include wings, hats, and backpacks, I recommend using the cosmetics plugin that I provide, which is CosmeticsCore. And for crates and keys, I suggest using plugins like random chest or ExcellentCrates.
+
+Nexo recommends using 1.21.2+
 
 Armor Set: You cannot change to a different set. It must be a leather set only because Leather Armor is a dyed set of various colors combined.
 
