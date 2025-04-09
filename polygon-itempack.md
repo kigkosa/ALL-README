@@ -18,7 +18,7 @@ If you encounter any issues, please contact me on Discord: chaaem
 
 _______________________________________
 
-Test on 1.21.3
+Test on 1.21.4
 
 For packs that include wings, hats, and backpacks, I recommend using the cosmetics plugin that I provide, which is CosmeticsCore. And for crates and keys, I suggest using plugins like random chest or ExcellentCrates.
 
