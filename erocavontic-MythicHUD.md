@@ -17,7 +17,9 @@ Requirement
   • Itemsadder (with LoneLibs and ProtocolLibs) or Oraxen
   • MythicHUD-1.1
   • PlaceholderAPI
-
+  
+PAPI Setup
+***papi_request***
 
 How to INSTALL: 
 - https://docs.erocavontic.net/getting-started/How-to-install-MythicHUD
