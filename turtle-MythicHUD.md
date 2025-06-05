@@ -5,7 +5,6 @@ Requirement
   • MythicHUD-1.0.0
   • PlaceholderAPI
 
-
 PAPI Setup
   • /papi ecloud download Player
   • /papi ecloud download Vault
